@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) SEI-R 7-06 Post-Cohort Resources 🎓
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) SEI-R 11-08 Post-Cohort Resources 🎓
 
 We have spent the last three months working hard and becoming software engineers, and all your hard work has paid off: now its time for the *really fun part!* Using your new skills as a coder, you can now continue to grow as your interests and passions guide your studies and career path.
 
